@@ -11,6 +11,7 @@ elif hungry == "no":
     if thirsty == "yes":
         print("Drink Water")
         print("Drink Soda drink")
+        print("Drink Juice")
 elif hungry == "maybe":
     print("Have snacks and drink water")
 else:
