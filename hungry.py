@@ -9,6 +9,8 @@ elif hungry == "no":
     if thirsty == "yes":
         print("Drink Water")
         print("Drink Soda drink")
+elif hungry == "maybe":
+    print("Have snacks and drink water")
 else:
     print("sorry, you are neither hungry not thirsty")
         
